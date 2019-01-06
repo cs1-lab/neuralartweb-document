@@ -26,7 +26,9 @@
 参考素材
 ---------
 
-素材の準備が面倒な場合は、次のzipファイルの素材を利用していただいても構いません。
+| 素材の準備が面倒な場合は、次のzipファイルの素材を利用していただいても構いません。
+| 素材セットの画像を組み合わせてご利用ください。
+| :download:`素材セットのダウンロードはこちら <./images/experiment/material_set.zip>`
 
 
 素材セットの内容
@@ -34,25 +36,19 @@
 
     * style_hokusai.jpg
         - スタイル画像です。
-
     * style_seg_hokusai.jpg
         - style_hokusai.jpgに対するスタイルセマンティックマップです。
-
     * style_starrynight.jpg
         - スタイル画像です。
         - 対応するセマンティックマップはご自身で作られるか、[単色背景]でコンテンツ画像に応じたものを選択してください。
-
     * content_neuralart.jpg
         - コンテンツ画像です。
-
     * content_seg_neuralart.jpg
         - content_neuralart.jpgに対するコンテンツセマンティックマップです。
         - content_neuralart.jpgと同一のため、素材登録の際[use content segmap]のチェックを外すことと同じです。
-
     * content_venoa.jpg
         - コンテンツ画像です。
         - 対応するセマンティックマップはご自身で作られるか、[use content segmap]のチェックを外してください。
-
 
 画風変換を行う
 ---------------
@@ -70,7 +66,7 @@
 結果を確認する
 ---------------
 
-結果を確認し、良い生成を公開してみてください。 :doc:`./result_index`
+結果を確認し、良い生成結果を共有してみてください。 :doc:`./result_index`
 
 .. note::
     生成開始時間を過ぎても結果が現れない場合は、ご連絡ください。 :ref:`contact`
@@ -80,6 +76,8 @@
 =========================
 
 | 以下のURLよりアンケートにご回答ください。
+| https://goo.gl/forms/YVAhTpSJU8ev54Rr2
+| (Google Formを利用しております)
 
 
 ご協力に関するお礼
